@@ -1,0 +1,15 @@
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\bin\Debug\net6.0\07AprilHomework.exe
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\bin\Debug\net6.0\07AprilHomework.deps.json
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\bin\Debug\net6.0\07AprilHomework.runtimeconfig.json
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\bin\Debug\net6.0\07AprilHomework.dll
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\bin\Debug\net6.0\07AprilHomework.pdb
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.csproj.AssemblyReference.cache
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.AssemblyInfoInputs.cache
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.AssemblyInfo.cs
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.csproj.CoreCompileInputs.cache
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.dll
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\refint\07AprilHomework.dll
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.pdb
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\07AprilHomework.genruntimeconfig.cache
+C:\Users\Elshad\source\repos\_07_04_2022_Homework\_07_04_2022_Homework\obj\Debug\net6.0\ref\07AprilHomework.dll
